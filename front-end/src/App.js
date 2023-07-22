@@ -101,10 +101,10 @@ const App = () => {
 
   </div>
   <div className="text-gray-400 mt-8">
-    <p className="text-center">Made by Youssef Mahboub</p>
+    <p className="text-center">Made by Mohammad Adil</p>
     <div className="flex justify-center mt-2">
       <a
-        href="https://github.com/youssefmahboub"
+        href="https://github.com/Adyl-S"
         target="_blank"
         rel="noopener noreferrer"
         className="mx-2"
@@ -125,7 +125,7 @@ const App = () => {
         </svg>
       </a>
       <a
-        href="https://www.linkedin.com/in/yssfmahboub/"
+        href="https://www.linkedin.com/in/mohammed-adil-a66855171/"
         target="_blank"
         rel="noopener noreferrer"
         className="mx-2"
@@ -145,7 +145,7 @@ const App = () => {
         </svg>
       </a>
       <a
-        href="https://twitter.com/yssfmahboub"
+        href="https://twitter.com/"
         target="_blank"
         rel="noopener noreferrer"
         className="mx-2"
